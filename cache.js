@@ -31,7 +31,7 @@ function forzarActualizacionCache() {
         'javascript/script.js?v15',
         // Add other URLs of your resources here
     ];
-    var version = 'v11'; // Use a static or manually managed version
+    var version = 'v15'; // Use a static or manually managed version
     cargarRecursos(recursos, version);
 }
 
